@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480pt" height="290pt" viewBox="0 0 480 290" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g id="surface2" transform="matrix(1.1898272436190784,0,0,1.1898272436190784,-51.077156417531455,-22.03358814381245)">
+    <path style="stroke:none;fill-rule:evenodd;fill:rgb(30.588235%,60.000000%,67.843137%);fill-opacity:1" d="M 310.949219 108.148438 L 236.000000 108.148438 L 228.949219 120.449219 L 303.898438 120.449219 L 310.949219 108.148438 M 278.199219 138.000000 L 218.800781 138.000000 L 225.851562 125.699219 L 285.250000 125.699219 L 278.199219 138.000000 "/>
+    <path style="stroke:none;fill-rule:evenodd;fill:rgb(51.764706%,61.568627%,66.666667%);fill-opacity:1" d="M 213.101562 138.000000 L 240.550781 90.500000 L 233.449219 78.250000 L 199.000000 138.000000 L 213.101562 138.000000 M 178.500000 138.000000 L 223.300781 60.699219 L 230.398438 72.949219 L 192.898438 138.000000 L 178.500000 138.000000 "/>
+    <path style="stroke:none;fill-rule:evenodd;fill:rgb(15.294118%,38.039216%,49.411765%);fill-opacity:1" d="M 219.949219 45.000000 L 253.550781 103.199219 L 267.699219 103.148438 L 234.101562 44.949219 L 219.949219 45.000000 M 258.000000 51.101562 L 288.000000 103.148438 L 273.851562 103.199219 L 243.851562 51.148438 L 258.000000 51.101562 "/>
+  </g>
+  <g id="surface4">
+    <text style="fill:rgb(39,97,126)" font-family="Merriweather" font-size="50" transform="matrix(0.879331188126139,0,0,0.879331188126139,168.57417376178273,195.58662376252275)" xml:space="preserve"><![CDATA[NITPL]]></text>
+    <text style="fill:rgb(39,97,126)" font-family="Merriweather" font-size="35" transform="matrix(1,0,0,1,96.35,245.15)" xml:space="preserve"><![CDATA[First City Project]]></text>
+  </g>
+</svg>
